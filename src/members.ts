@@ -31,7 +31,7 @@
 export type MemberConfig = {
     key: string;
     discordId: string;
-    group?: "FOUNDER" | "FAME" | "DIVINEBLOOD";
+    group?: "FOUNDER" | "CO-FOUNDER" | "FAME" | "DIVINEBLOOD";
     hasPage?: boolean;
 
     name?: string;
@@ -142,56 +142,9 @@ export const members: MemberConfig[] = [
         ],
     },
 
-    // ── FAME ──────────────────────────────────────────────────────────────
+    // ── FOUNDER ──────────────────────────────────────────────────────────────
 
-    {
-        key: "sica",
-        discordId: "1421036802713583627",
-        group: "FAME",
-
-        name: "Sica",
-        bio: "vien my twin",
-        music: "https://youtu.be/5nW_7byeCt4",
-
-        bannerImage: "/sica/banner.jpg",
-        backgroundImage: "/sica/bg.jpg",
-        backgroundOverlay: 0.25,
-
-        buttonColors: {
-            social: "#a855f7",
-            discord: "#a855f7",
-            panel: "#a855f7",
-        },
-
-        socials: [
-            {
-                label: "instagram",
-                url: "https://www.instagram.com/luvsicaz/",
-            },
-        ],
-
-        affiliates: [
-            {
-                name: "",
-                url: "https://www.helloxorev.com/",
-                banner: "/krammy/xorev.png",
-            },
-            {
-                name: "",
-                url: "https://revgng.org/",
-                banner: "/krammy/revshit.png",
-            },
-        ],
-    },
-
-    {
-        key: "member-5",
-        discordId: "1491058480302526637",
-        group: "FAME",
-        hasPage: false,
-    },
-
-    {
+       {
         key: "ash",
         discordId: "1507628998665048175",
         group: "FAME",
@@ -232,48 +185,19 @@ export const members: MemberConfig[] = [
     },
 
     {
+        key: "member-5",
+        discordId: "1491058480302526637",
+        group: "FAME",
+        hasPage: false,
+    },
+   
+    // ── FAME ──────────────────────────────────────────────────────────────
+
+    {
         key: "vien",
         discordId: "1005858161535762563",
         group: "FAME",
 
-        name: "Vien",
-        bio: "sica my twin",
-        music: "https://youtu.be/pZ31pyTZdh0",
-
-        bannerImage: "/vien/banner.png",
-        backgroundImage: "/vien/bg.jpg",
-        backgroundOverlay: 0.25,
-
-        buttonColors: {
-            social: "#FFFFFF",
-            discord: "#FFFFFF",
-            panel: "#FFFFFF",
-        },
-
-        socials: [
-            {
-                label: "instagram",
-                url: "https://www.instagram.com/la1iiq_/?utm_source=ig_web_button_share_sheet",
-            },
-            {
-                label: "tiktok",
-                url: "https://www.tiktok.com/@aeeezieee?is_from_webapp=1&sender_device=pc",
-            },
-        ],
-
-        affiliates: [
-            {
-                name: "",
-                url: "https://www.helloxorev.com/",
-                banner: "/krammy/xorev.png",
-            },
-            {
-                name: "",
-                url: "https://revgng.org/",
-                banner: "/krammy/revshit.png",
-            },
-        ],
-    },
 
     {
         key: "member-8",
@@ -334,6 +258,11 @@ export const members: MemberConfig[] = [
 export const founder = members.filter(
     (m) => m.group === "FOUNDER",
 );
+
+export const CO-FOUNDER = members.filter(
+    (m) => m.group === "CO-FOUNDER",
+);
+
 export const fame = members.filter(
     (m) => m.group === "FAME",
 );
