@@ -142,7 +142,7 @@ export const members: MemberConfig[] = [
         ],
     },
 
-    // ── FOUNDER ──────────────────────────────────────────────────────────────
+    // ── COF ──────────────────────────────────────────────────────────────
 
        {
         key: "ash",
@@ -185,16 +185,98 @@ export const members: MemberConfig[] = [
     },
 
     {
-        key: "member-2",
+        key: "member-1",
         discordId: "1491058480302526637",
         group: "COF",
         hasPage: false,
     },
    
     // ── FAME ──────────────────────────────────────────────────────────────
-
+   
     {
-        key: "member-8",
+        key: "winho",
+        discordId: "1036850037579329536",
+        group: "FAME",
+
+        name: "WINHO",
+        bio: "Built in Silence.",
+        music: "https://music.youtube.com/watch?v=t8biySOdzK8",
+
+        bannerImage: "/winho/banner.gif",
+        backgroundImage: "/winho/bg.gif",
+        backgroundOverlay: 0.55,
+
+        buttonColors: {
+            social: "#FFFFFF",
+            discord: "#FFFFFF",
+            panel: "#FFFFFF",
+        },
+
+        socials: [
+            {
+                label: "instagram",
+                url: "https://www.instagram.com/wincurse?igsi=azVidm83ZmluODhu&utm_source=qr",
+            },
+            {
+                label: "tiktok",
+                url: "https://www.tiktok.com/@wnhocurse_?_r=1&_t=ZS-99FAf0aXYTB",
+            },
+        ],
+
+        discordLinks: [
+            {
+                banner: "/winho/hhail.jpg",
+                url: "https://discord.gg/PTB4du9nF",
+            },
+            {
+                banner: "/winho/revshit.gif",
+                url: "https://discord.gg/revshit",
+            },
+            {
+                banner: "/winho/xorev.png",
+                url: "https://discord.gg/xorev",
+            },
+        ],
+
+        affiliates: [
+            {
+                name: "",
+                url: "https://www.helloxorev.com/",
+                banner: "/krammy/xorev.png",
+            },
+            {
+                name: "",
+                url: "https://revgng.org/",
+                banner: "/krammy/revshit.png",
+            },
+        ],
+    },
+    {
+        key: "member-2",
+        discordId: "879366945957347328",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "member-3",
+        discordId: "1439556646966923317",
+        group: "FAME",
+        hasPage: false,
+    },
+       {
+        key: "member-4",
+        discordId: "885505939338305556",
+        group: "FAME",
+        hasPage: false,
+    },
+       {
+        key: "member-5",
+        discordId: "907840966340268083",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "member-6",
         discordId: "901367147215851571",
         group: "FAME",
         hasPage: false,
