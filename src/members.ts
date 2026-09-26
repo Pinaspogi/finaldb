@@ -147,7 +147,7 @@ export const members: MemberConfig[] = [
        {
         key: "ash",
         discordId: "1507628998665048175",
-        group: "FAME",
+        group: "CO-FOUNDER",
 
         name: "Ash",
         bio: "08",
@@ -185,19 +185,13 @@ export const members: MemberConfig[] = [
     },
 
     {
-        key: "member-5",
+        key: "member-2",
         discordId: "1491058480302526637",
-        group: "FAME",
+        group: "CO-FOUNDER",
         hasPage: false,
     },
    
     // ── FAME ──────────────────────────────────────────────────────────────
-
-    {
-        key: "vien",
-        discordId: "1005858161535762563",
-        group: "FAME",
-
 
     {
         key: "member-8",
