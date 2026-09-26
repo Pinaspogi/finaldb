@@ -145,20 +145,6 @@ export const members: MemberConfig[] = [
     // ── FAME ──────────────────────────────────────────────────────────────
 
     {
-        key: "member-2",
-        discordId: "1477383583386828850",
-        group: "FAME",
-        hasPage: false,
-    },
-
-    {
-        key: "member-3",
-        discordId: "1369252503786356779",
-        group: "FAME",
-        hasPage: false,
-    },
-
-    {
         key: "sica",
         discordId: "1421036802713583627",
         group: "FAME",
