@@ -1018,7 +1018,7 @@ export default function Home() {
                     />
                     
                     <Section
-                        title="CO-FOUNDER"
+                        title="COFOUNDER"
                         members={cofounder}
                         startIndex={
                              founder.length
