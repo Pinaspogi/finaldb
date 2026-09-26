@@ -31,7 +31,7 @@
 export type MemberConfig = {
     key: string;
     discordId: string;
-    group?: "FOUNDER" | "CO-FOUNDER" | "FAME" | "DIVINEBLOOD";
+    group?: "FOUNDER" | "COFOUNDER" | "FAME" | "DIVINEBLOOD";
     hasPage?: boolean;
 
     name?: string;
@@ -147,7 +147,7 @@ export const members: MemberConfig[] = [
        {
         key: "ash",
         discordId: "1507628998665048175",
-        group: "CO-FOUNDER",
+        group: "COFOUNDER",
 
         name: "Ash",
         bio: "08",
@@ -187,7 +187,7 @@ export const members: MemberConfig[] = [
     {
         key: "member-2",
         discordId: "1491058480302526637",
-        group: "CO-FOUNDER",
+        group: "COFOUNDER",
         hasPage: false,
     },
    
@@ -254,7 +254,7 @@ export const founder = members.filter(
 );
 
 export const CO-FOUNDER = members.filter(
-    (m) => m.group === "CO-FOUNDER",
+    (m) => m.group === "COFOUNDER",
 );
 
 export const fame = members.filter(
