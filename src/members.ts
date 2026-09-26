@@ -253,7 +253,7 @@ export const founder = members.filter(
     (m) => m.group === "FOUNDER",
 );
 
-export const COFOUNDER = members.filter(
+export const cofounder = members.filter(
     (m) => m.group === "COFOUNDER",
 );
 
