@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import { useLocation } from "wouter";
-import { founder, fame, divineblood, type MemberConfig } from "@/members";
+import { founder, cofounder, fame, divineblood, type MemberConfig } from "@/members";
 
 // ── Server invite links ─────────────────────────────────────────────────
 const SERVER_LINKS = {
@@ -1014,13 +1014,22 @@ export default function Home() {
                     <Section
                         title="FOUNDER"
                         members={founder}
-                        startIndex={0}
+                        startIndex={0}   
                     />
+                    
+                    <Section
+                        title="CO-FOUNDER"
+                        members={cofounder}
+                        startIndex={
+                             founder.length
+                        }
+                    />    
+                    
                     <Section
                         title="FAME"
                         members={fame}
                         startIndex={
-                            founder.length
+                            cofounder.length
                         }
                     />
 
