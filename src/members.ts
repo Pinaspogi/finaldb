@@ -263,13 +263,13 @@ export const members: MemberConfig[] = [
         group: "FAME",
         hasPage: false,
     },
-       {
+    {
         key: "member-4",
         discordId: "885505939338305556",
         group: "FAME",
         hasPage: false,
     },
-       {
+    {
         key: "member-5",
         discordId: "907840966340268083",
         group: "FAME",
@@ -278,6 +278,18 @@ export const members: MemberConfig[] = [
     {
         key: "member-6",
         discordId: "901367147215851571",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "member-7",
+        discordId: "1460080900405727492",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "member-8",
+        discordId: "912130312442613801",
         group: "FAME",
         hasPage: false,
     },
