@@ -252,10 +252,58 @@ export const members: MemberConfig[] = [
         ],
     },
     {
-        key: "member-2",
+        key: "ly",
         discordId: "879366945957347328",
         group: "FAME",
-        hasPage: false,
+
+        name: "ly",
+        bio: "i ought to be thy adam, but rather be the fallen angel",
+        music: "https://youtu.be/UzN9Hlkd43E?si=dPc90q99AiM2tqbZ",
+
+        bannerImage: "/ly/banner.gif",
+        backgroundImage: "/ly/bg.gif",
+        backgroundOverlay: 0.55,
+
+        buttonColors: {
+            social: "#301934",
+            discord: "#301934",
+            panel: "#301934",
+        },
+
+        socials: [],
+
+        discordLinks: [
+            {
+                banner: "/ly/1.png",
+                url: "https://discord.gg/s4kNwj2Tj",
+            },
+            {
+                banner: "/ly/2.jpg",
+                url: "https://discord.gg/revshit",
+            },
+            {
+                banner: "/ly/3.png",
+                url: "https://discord.gg/aknem",
+            },
+        ],
+
+        affiliates: [
+            {
+                name: "",
+                url: "https://1738wrldwide.xo.je/",
+                banner: "/ly/1738.png",
+            },
+            {
+                name: "",
+                url: "https://guns.lol/i7xne",
+                banner: "/ly/guns.jpg",
+            },
+            {
+                name: "",
+                url: "https://amiri.cash/",
+                banner: "/ly/amiri.jpg",
+            },
+        ],
     },
     {
         key: "member-3",
@@ -282,14 +330,116 @@ export const members: MemberConfig[] = [
         hasPage: false,
     },
     {
-        key: "member-7",
+        key: "aisha",
         discordId: "1460080900405727492",
         group: "FAME",
-        hasPage: false,
+
+        name: "aisha",
+        bio: "evolving not competing dm Moko baby",
+        music: "https://youtu.be/UoPd8mFDJjo?si=8TSLt_UVUG91tv_G",
+
+        bannerImage: "",
+        backgroundImage: "/ly/bg.gif",
+        backgroundOverlay: 0.55,
+
+        buttonColors: {
+            social: "#301934",
+            discord: "#301934",
+            panel: "#301934",
+        },
+
+        socials: [],
+
+        discordLinks: [
+            {
+                banner: "/aisha/1.gif",
+                url: "https://discord.gg/TMTsav37dR",
+            },
+            {
+                banner: "/aisha/2.jpg",
+                url: "https://discord.gg/V6QkCuvvwy",
+            },
+            {
+                banner: "/aisha/3.png",
+                url: "https://discord.gg/PpnqjXcxNQ",
+            },
+        ],
+
+        affiliates: [
+            {
+                name: "",
+                url: "https://1738wrldwide.xo.je/",
+                banner: "/ly/1738.png",
+            },
+            {
+                name: "",
+                url: "https://www.helloxorev.com/",
+                banner: "/krammy/xorev.png",
+            },
+            {
+                name: "",
+                url: "https://revgng.org/",
+                banner: "/krammy/revshit.png",
+            },
+        ],
     },
     {
         key: "member-8",
         discordId: "912130312442613801",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "member-9",
+        discordId: "975452689901162617",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "member-10",
+        discordId: "1410637313167593636",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "member-11",
+        discordId: "731062259832455178",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "member-12",
+        discordId: "1498182038342336542",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "member-13",
+        discordId: "1345256472891883613",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "member-14",
+        discordId: "1447408955495026792",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "member-15",
+        discordId: "965808154824822834",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "member-16",
+        discordId: "929027870674792460",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "member-17",
+        discordId: "1361012595561205951",
         group: "FAME",
         hasPage: false,
     },
