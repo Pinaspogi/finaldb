@@ -420,10 +420,54 @@ export const members: MemberConfig[] = [
         hasPage: false,
     },
     {
-        key: "member-14",
+        key: "seri",
         discordId: "1447408955495026792",
         group: "FAME",
-        hasPage: false,
+
+        name: "seri",
+        bio: "born to stand out, never to fit in.",
+        music: "https://www.youtube.com/watch?v=1DpH-icPpl0&list=RD1DpH-icPpl0&start_radio=1",
+
+        bannerImage: "",
+        backgroundImage: "/seri/bg.gif",
+        backgroundOverlay: 0.55,
+
+        buttonColors: {
+            social: "#E03FD8",
+            discord: "#E03FD8",
+            panel: "#E03FD8",
+        },
+
+        socials: [],
+
+        discordLinks: [
+            {
+                banner: "/seri/1.gif",
+                url: "https://discord.gg/2xZa3EFJg",
+            },
+            {
+                banner: "/seri/2.png",
+                url: "https://discord.gg/PpnqjXcxNQ",
+            },
+        ],
+
+        affiliates: [
+            {
+                name: "",
+                url: "https://www.helloxorev.com/",
+                banner: "/krammy/xorev.png",
+            },
+            {
+                name: "",
+                url: "https://revgng.org/",
+                banner: "/krammy/revshit.png",
+            },
+            {
+                name: "",
+                url: "https://krammy.world/",
+                banner: "/krammy/krammy.png",
+            },
+        ],
     },
     {
         key: "member-15",
