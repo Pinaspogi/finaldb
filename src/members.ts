@@ -265,9 +265,9 @@ export const members: MemberConfig[] = [
         backgroundOverlay: 0.55,
 
         buttonColors: {
-            social: "#301934",
-            discord: "#301934",
-            panel: "#301934",
+            social: "#A868D9",
+            discord: "#A868D9",
+            panel: "#A868D9",
         },
 
         socials: [],
