@@ -339,13 +339,13 @@ export const members: MemberConfig[] = [
         music: "https://youtu.be/UoPd8mFDJjo?si=8TSLt_UVUG91tv_G",
 
         bannerImage: "",
-        backgroundImage: "/ly/bg.gif",
+        backgroundImage: "/aisha/bg.gif",
         backgroundOverlay: 0.55,
 
         buttonColors: {
-            social: "#301934",
-            discord: "#301934",
-            panel: "#301934",
+            social: "#cc2222",
+            discord: "#cc2222",
+            panel: "#cc2222",
         },
 
         socials: [],
