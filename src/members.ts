@@ -489,6 +489,36 @@ export const members: MemberConfig[] = [
             },
         ],  
     },
+    {
+        key: "member-18",
+        discordId: "728609593835651073",
+        group: "DIVINEBLOOD",
+        hasPage: false,
+    },
+    {
+        key: "member-19",
+        discordId: "1406664943826374688",
+        group: "DIVINEBLOOD",
+        hasPage: false,
+    },
+    {
+        key: "member-20",
+        discordId: "715545303784095794",
+        group: "DIVINEBLOOD",
+        hasPage: false,
+    },
+    {
+        key: "member-21",
+        discordId: "1437571131275214888",
+        group: "DIVINEBLOOD",
+        hasPage: false,
+    },
+    {
+        key: "member-22",
+        discordId: "1549565072521691280",
+        group: "DIVINEBLOOD",
+        hasPage: false,
+    },
 ];
 
 // ── Helpers ────────────────────────────────────────────────────────────
