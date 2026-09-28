@@ -141,6 +141,12 @@ export const members: MemberConfig[] = [
             },
         ],
     },
+    {
+        key: "honey",
+        discordId: "1410637313167593636",
+        group: "FOUNDER",
+        hasPage: false,
+    },
 
     // ── COF ──────────────────────────────────────────────────────────────
 
@@ -187,6 +193,12 @@ export const members: MemberConfig[] = [
     {
         key: "yel",
         discordId: "1491058480302526637",
+        group: "COF",
+        hasPage: false,
+    },
+    {
+        key: "risk",
+        discordId: "1498182038342336542",
         group: "COF",
         hasPage: false,
     },
@@ -390,12 +402,6 @@ export const members: MemberConfig[] = [
         hasPage: false,
     },
     {
-        key: "risk",
-        discordId: "1498182038342336542",
-        group: "FAME",
-        hasPage: false,
-    },
-    {
         key: "seri",
         discordId: "1447408955495026792",
         group: "FAME",
@@ -456,6 +462,56 @@ export const members: MemberConfig[] = [
         discordId: "929027870674792460",
         group: "FAME",
         hasPage: false,
+    },
+       {
+        key: "xen",
+        discordId: "1361012595561205951",
+        group: "FAME",
+
+        name: "xen",
+        bio: "most hated in asia",
+        music: "https://www.youtube.com/watch?v=kJF1H8kG2_Q&list=PLW2XIA9nBJsA",
+
+        bannerImage: "/xen/banner.png",
+        backgroundImage: "/xen/bg.gif",
+        backgroundOverlay: 0.55,
+
+        buttonColors: {
+            social: "#0000FF",
+            discord: "#0000FF",
+            panel: "#0000FF",
+        },
+
+        socials:[],
+
+        discordLinks: [
+            {
+                banner: "/xen/1.png",
+                url: "https://discord.gg/kVe7TsFnnY",
+            },
+            {
+                banner: "/krammy/2.png",
+                url: "https://discord.gg/PpnqjXcxNQ",
+            },
+        ],
+
+        affiliates: [
+            {
+                name: "",
+                url: "https://guns.lol/penkai1331",
+                banner: "/xen/guns.png",
+            },
+            {
+                name: "",
+                url: "https://1738wrldwide.xo.je/",
+                banner: "/ly/1738.png",
+            },
+            {
+                name: "",
+                url: "https://krammy.world/",
+                banner: "/krammy/krammy.png",
+            },
+        ],
     },
 
     // ── DIVINEBLOOD ──────────────────────────────────────────────────────────────
@@ -528,20 +584,8 @@ export const members: MemberConfig[] = [
         hasPage: false,
     },
     {
-        key: "xen",
-        discordId: "1361012595561205951",
-        group: "DIVINEBLOOD",
-        hasPage: false,
-    },
-    {
         key: "sensu",
         discordId: "1345256472891883613",
-        group: "DIVINEBLOOD",
-        hasPage: false,
-    },
-    {
-        key: "honey",
-        discordId: "1410637313167593636",
         group: "DIVINEBLOOD",
         hasPage: false,
     },
