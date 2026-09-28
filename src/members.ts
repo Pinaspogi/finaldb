@@ -490,7 +490,7 @@ export const members: MemberConfig[] = [
                 url: "https://discord.gg/kVe7TsFnnY",
             },
             {
-                banner: "/krammy/2.png",
+                banner: "/xen/2.png",
                 url: "https://discord.gg/PpnqjXcxNQ",
             },
         ],
