@@ -306,12 +306,6 @@ export const members: MemberConfig[] = [
         ],
     },
     {
-        key: "member-3",
-        discordId: "1439556646966923317",
-        group: "FAME",
-        hasPage: false,
-    },
-    {
         key: "member-4",
         discordId: "885505939338305556",
         group: "FAME",
@@ -414,12 +408,6 @@ export const members: MemberConfig[] = [
         hasPage: false,
     },
     {
-        key: "member-13",
-        discordId: "1345256472891883613",
-        group: "FAME",
-        hasPage: false,
-    },
-    {
         key: "seri",
         discordId: "1447408955495026792",
         group: "FAME",
@@ -478,12 +466,6 @@ export const members: MemberConfig[] = [
     {
         key: "member-16",
         discordId: "929027870674792460",
-        group: "FAME",
-        hasPage: false,
-    },
-    {
-        key: "member-17",
-        discordId: "1361012595561205951",
         group: "FAME",
         hasPage: false,
     },
@@ -560,6 +542,36 @@ export const members: MemberConfig[] = [
     {
         key: "member-22",
         discordId: "1549565072521691280",
+        group: "DIVINEBLOOD",
+        hasPage: false,
+    },
+    {
+        key: "member-17",
+        discordId: "1361012595561205951",
+        group: "DIVINEBLOOD",
+        hasPage: false,
+    },
+    {
+        key: "member-13",
+        discordId: "1345256472891883613",
+        group: "DIVINEBLOOD",
+        hasPage: false,
+    },
+    {
+        key: "member-10",
+        discordId: "1410637313167593636",
+        group: "DIVINEBLOOD",
+        hasPage: false,
+    },
+    {
+        key: "member-11",
+        discordId: "731062259832455178",
+        group: "DIVINEBLOOD",
+        hasPage: false,
+    },
+    {
+        key: "member-3",
+        discordId: "1439556646966923317",
         group: "DIVINEBLOOD",
         hasPage: false,
     },
