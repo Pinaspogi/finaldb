@@ -145,7 +145,42 @@ export const members: MemberConfig[] = [
         key: "demz",
         discordId: "1554294515748306966",
         group: "FOUNDER",
-        hasPage: false,
+
+        name: "Demz",
+        bio: "my crows are watching.",
+        music: "https://www.youtube.com/watch?v=sElE_BfQ67s",
+
+        bannerImage: "",
+        backgroundImage: "/demz/bg.gif",
+        backgroundOverlay: 0.55,
+
+        buttonColors: {
+            social: "#000000",
+            discord: "#000000",
+            panel: "#000000",
+        },
+
+        socials: [],
+
+        discordLinks: [],
+
+        affiliates: [
+            {
+                name: "",
+                url: "https://www.helloxorev.com/",
+                banner: "/demz/xorev.png",
+            },
+            {
+                name: "",
+                url: "https://revgng.org/",
+                banner: "/demz/revshit.png",
+            },
+            {
+                name: "",
+                url: "https://krammy.world/",
+                banner: "/demz/krammy.png",
+            },
+        ],
     },
     {
         key: "nate",
@@ -622,12 +657,6 @@ export const members: MemberConfig[] = [
     {
         key: "rc",
         discordId: "1437571131275214888",
-        group: "DIVINEBLOOD",
-        hasPage: false,
-    },
-    {
-        key: "pancho",
-        discordId: "1406664943826374688",
         group: "DIVINEBLOOD",
         hasPage: false,
     },
