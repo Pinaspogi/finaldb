@@ -142,8 +142,20 @@ export const members: MemberConfig[] = [
         ],
     },
     {
-        key: "honey",
-        discordId: "1410637313167593636",
+        key: "demz",
+        discordId: "1554294515748306966",
+        group: "FOUNDER",
+        hasPage: false,
+    },
+    {
+        key: "nate",
+        discordId: "1455803188723843225",
+        group: "FOUNDER",
+        hasPage: false,
+    },
+    {
+        key: "illusion",
+        discordId: "1495036966360842260",
         group: "FOUNDER",
         hasPage: false,
     },
@@ -513,6 +525,36 @@ export const members: MemberConfig[] = [
             },
         ],
     },
+    {
+        key: "elohim",
+        discordId: "1439556646966923317",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "fei",
+        discordId: "1171474815874506864",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "highcaliber",
+        discordId: "1512675755459612835",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "twin",
+        discordId: "739693953242103838",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "tid",
+        discordId: "1474609680792817985",
+        group: "FAME",
+        hasPage: false,
+    },
 
     // ── DIVINEBLOOD ──────────────────────────────────────────────────────────────
 
@@ -584,8 +626,8 @@ export const members: MemberConfig[] = [
         hasPage: false,
     },
     {
-        key: "sensu",
-        discordId: "1345256472891883613",
+        key: "pancho",
+        discordId: "1406664943826374688",
         group: "DIVINEBLOOD",
         hasPage: false,
     },
@@ -596,20 +638,8 @@ export const members: MemberConfig[] = [
         hasPage: false,
     },
     {
-        key: "elohim",
-        discordId: "1439556646966923317",
-        group: "DIVINEBLOOD",
-        hasPage: false,
-    },
-    {
-        key: "gun",
-        discordId: "1495036966360842260",
-        group: "DIVINEBLOOD",
-        hasPage: false,
-    },
-    {
-        key: "vien",
-        discordId: "927824125781762068",
+        key: "kae",
+        discordId: "1534535921158979585",
         group: "DIVINEBLOOD",
         hasPage: false,
     },
@@ -622,6 +652,30 @@ export const members: MemberConfig[] = [
     {
         key: "kash",
         discordId: "1443190990373388361",
+        group: "DIVINEBLOOD",
+        hasPage: false,
+    },
+    {
+        key: "owx",
+        discordId: "998493903286181928",
+        group: "DIVINEBLOOD",
+        hasPage: false,
+    },
+    {
+        key: "shanoa",
+        discordId: "1098937185882869840",
+        group: "DIVINEBLOOD",
+        hasPage: false,
+    },
+    {
+        key: "supreme",
+        discordId: "1500108165771956305",
+        group: "DIVINEBLOOD",
+        hasPage: false,
+    },
+    {
+        key: "maine",
+        discordId: "788703263146246195",
         group: "DIVINEBLOOD",
         hasPage: false,
     },
