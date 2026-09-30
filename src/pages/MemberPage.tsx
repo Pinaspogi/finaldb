@@ -1919,6 +1919,16 @@ export default function MemberPage({
                                     }}
                                 />
 
+                                <div
+                                    className="font-mono text-[10px] sm:text-xs tracking-[0.35em] uppercase text-red-400/80"
+                                    style={{
+                                        textShadow:
+                                            "0 0 8px rgba(248,113,113,.38)",
+                                    }}
+                                >
+                                    CLICK TO ENTER
+                                </div>
+
                                 <div className="font-mono text-[8px] tracking-[0.22em] uppercase text-white/20">
                                     founded by krammy
                                 </div>
@@ -1932,7 +1942,7 @@ export default function MemberPage({
 
             {/* MAIN PAGE */}
             {!introVisible && (
-                <div className="relative z-10 w-full max-w-[1400px] px-4 pt-8 pb-12 member-page-content">
+                <div className="relative z-10 w-full max-w-[1400px] h-full px-4 py-8 member-page-content flex flex-col">
 
                     <div className="text-center mb-8 pointer-events-none">
 
@@ -1952,7 +1962,7 @@ export default function MemberPage({
                     {/* MUSIC  |  PROFILE  |  AFFILIATES                         */}
                     {/* ========================================================= */}
 
-                    <div className="grid grid-cols-1 xl:grid-cols-[270px_430px_270px] gap-30 items-start justify-center">
+                    <div className="grid grid-cols-1 xl:grid-cols-[270px_430px_270px] gap-30 items-start xl:items-center justify-center xl:flex-1 -translate-y-8">
 
                         {/* ======================================================= */}
                         {/* MUSIC BOX                                               */}
