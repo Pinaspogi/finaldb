@@ -1858,7 +1858,7 @@ export default function MemberPage({
                             enterPage
                         }
                         className="absolute inset-0 z-10 flex items-center justify-center px-4 text-center cursor-pointer bg-transparent border-0"
-                        aria-label="Click to enter"
+                        aria-label=""
                     >
                         <div className="w-full flex flex-col items-center justify-center">
 
