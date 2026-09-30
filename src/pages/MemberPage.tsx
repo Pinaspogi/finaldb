@@ -1919,16 +1919,6 @@ export default function MemberPage({
                                     }}
                                 />
 
-                                <div
-                                    className="font-mono text-[10px] sm:text-xs tracking-[0.35em] uppercase text-red-400/80"
-                                    style={{
-                                        textShadow:
-                                            "0 0 8px rgba(248,113,113,.38)",
-                                    }}
-                                >
-                                    CLICK TO ENTER
-                                </div>
-
                                 <div className="font-mono text-[8px] tracking-[0.22em] uppercase text-white/20">
                                     founded by krammy
                                 </div>
