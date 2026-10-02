@@ -424,7 +424,7 @@ export const members: MemberConfig[] = [
         music: "https://music.youtube.com/watch?v=IfgvCCP9JKc&si=ZfrePj3cwXOp35Ec",
 
         bannerImage: "/leyy/banner.jpg",
-        backgroundImage: "/ly/bg.jpg",
+        backgroundImage: "/leyy/bg.jpg",
         backgroundOverlay: 0.55,
 
         buttonColors: {
