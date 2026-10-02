@@ -831,7 +831,7 @@ export const members: MemberConfig[] = [
         group: "DIVINEBLOOD",
 
         name: "supreme",
-        bio: "High Authority",
+        bio: "bio trust who?",
         music: "https://youtu.be/MEAdm5HzAuM?si=gZOAWazjGW-kwJ-V",
 
         bannerImage: "",
