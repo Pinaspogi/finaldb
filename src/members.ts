@@ -423,8 +423,8 @@ export const members: MemberConfig[] = [
         bio: "baby im perfect for you",
         music: "https://music.youtube.com/watch?v=IfgvCCP9JKc&si=ZfrePj3cwXOp35Ec",
 
-        bannerImage: "/ly/banner.gif",
-        backgroundImage: "/ly/bg.gif",
+        bannerImage: "/leyy/banner.jpg",
+        backgroundImage: "/ly/bg.jpg",
         backgroundOverlay: 0.55,
 
         buttonColors: {
@@ -769,7 +769,7 @@ export const members: MemberConfig[] = [
             {
                 name: "",
                 url: "https://www.helloxorev.com/",
-                banner: "/kyoshi/xorev.png",
+                banner: "/kyoshi/helloxorev.png",
             },
             {
                 name: "",
