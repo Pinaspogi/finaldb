@@ -186,7 +186,51 @@ export const members: MemberConfig[] = [
         key: "nate",
         discordId: "1455803188723843225",
         group: "FOUNDER",
-        hasPage: false,
+
+        name: "nate",
+        bio: "",
+        music: "https://youtu.be/lCDU928mDJs?si=tOC2QV1mb-tv2dcg",
+
+        bannerImage: "",
+        backgroundImage: "/nate/bg.png",
+        backgroundOverlay: 0.55,
+
+        buttonColors: {
+            social: "#000000",
+            discord: "#000000",
+            panel: "#000000",
+        },
+
+        socials: [
+            {
+                label: "youtube",
+                url: "https://youtube.com/@4luvraizen?si=Uqjf68BpLDocr4vm",
+            },
+            {
+                label: "tiktok",
+                url: "https://www.tiktok.com/@youthink.ron?_r=1&_t=ZS-99223pwFevU",
+            },
+        ],
+
+        discordLinks: [],
+
+        affiliates: [
+            {
+                name: "",
+                url: "https://www.helloxorev.com/",
+                banner: "/demz/xorev.png",
+            },
+            {
+                name: "",
+                url: "https://revgng.org/",
+                banner: "/demz/revshit.png",
+            },
+            {
+                name: "",
+                url: "https://krammy.world/",
+                banner: "/demz/krammy.png",
+            },
+        ],
     },
     {
         key: "illusion",
@@ -374,7 +418,51 @@ export const members: MemberConfig[] = [
         key: "leyy",
         discordId: "907840966340268083",
         group: "FAME",
-        hasPage: false,
+
+        name: "leyy",
+        bio: "baby im perfect for you",
+        music: "https://music.youtube.com/watch?v=IfgvCCP9JKc&si=ZfrePj3cwXOp35Ec",
+
+        bannerImage: "/ly/banner.gif",
+        backgroundImage: "/ly/bg.gif",
+        backgroundOverlay: 0.55,
+
+        buttonColors: {
+            social: "#780000",
+            discord: "#780000",
+            panel: "#780000",
+        },
+
+        socials: [
+            {
+                label: "instagram",
+                url: "https://www.instagram.com/_1zsel/",
+            },
+            {
+                label: "tiktok",
+                url: "https://www.roblox.com/users/2228204669/profile",
+            },
+        ],
+
+        discordLinks: [],
+
+        affiliates: [
+            {
+                name: "",
+                url: "https://www.helloxorev.com/",
+                banner: "/krammy/xorev.png",
+            },
+            {
+                name: "",
+                url: "https://revgng.org/",
+                banner: "/krammy/revshit.png",
+            },
+            {
+                name: "",
+                url: "https://krammy.world/",
+                banner: "/krammy/krammy.png",
+            },
+        ],
     },
     {
         key: "xisha",
@@ -499,18 +587,12 @@ export const members: MemberConfig[] = [
         ],
     },
     {
-        key: "uno",
-        discordId: "965808154824822834",
-        group: "FAME",
-        hasPage: false,
-    },
-    {
         key: "wider",
         discordId: "929027870674792460",
         group: "FAME",
         hasPage: false,
     },
-       {
+    {
         key: "xen",
         discordId: "1361012595561205951",
         group: "FAME",
@@ -567,19 +649,7 @@ export const members: MemberConfig[] = [
         hasPage: false,
     },
     {
-        key: "fei",
-        discordId: "1171474815874506864",
-        group: "FAME",
-        hasPage: false,
-    },
-    {
-        key: "highcaliber",
-        discordId: "1512675755459612835",
-        group: "FAME",
-        hasPage: false,
-    },
-    {
-        key: "twin",
+        key: "deej",
         discordId: "739693953242103838",
         group: "FAME",
         hasPage: false,
@@ -587,6 +657,18 @@ export const members: MemberConfig[] = [
     {
         key: "tid",
         discordId: "1474609680792817985",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "caramelle",
+        discordId: "728609593835651073",
+        group: "FAME",
+        hasPage: false,
+    },
+    {
+        key: "cio",
+        discordId: "1073765256884662393",
         group: "FAME",
         hasPage: false,
     },
@@ -637,12 +719,6 @@ export const members: MemberConfig[] = [
         ],  
     },
     {
-        key: "caramelle",
-        discordId: "728609593835651073",
-        group: "DIVINEBLOOD",
-        hasPage: false,
-    },
-    {
         key: "devil",
         discordId: "1406664943826374688",
         group: "DIVINEBLOOD",
@@ -652,7 +728,60 @@ export const members: MemberConfig[] = [
         key: "kyoshi",
         discordId: "715545303784095794",
         group: "DIVINEBLOOD",
-        hasPage: false,
+
+        name: "kyoshi",
+        bio: "Been born to this world to be Hated by many.",
+        music: "https://youtu.be/KNrjSOpkwRs?si=0Sdfb0xZL2Wih_3K",
+
+        bannerImage: "/kyoshi/banner.gif",
+        backgroundImage: "/kyoshi/bg.gif",
+        backgroundOverlay: 0.55,
+
+        buttonColors: {
+            social: "#cc2222",
+            discord: "#cc2222",
+            panel: "#cc2222",
+        },
+
+        socials: [
+            {
+                label: "tiktok",
+                url: "https://www.tiktok.com/@192.168.875.143?is_from_webapp=1&sender_device=pc",
+            },
+        ],
+
+        discordLinks: [
+            {
+                banner: "/kyoshi/1.png",
+                url: "https://discord.gg/XJQw2tcDG",
+            },
+            {
+                banner: "/kyoshi/2.png",
+                url: "https://discord.gg/64dFQMxMR",
+            },
+            {
+                banner: "/kyoshi/3.png",
+                url: "https://discord.gg/jspFqg7uT",
+            },
+        ],
+
+        affiliates: [
+            {
+                name: "",
+                url: "https://www.helloxorev.com/",
+                banner: "/kyoshi/xorev.png",
+            },
+            {
+                name: "",
+                url: "https://revgng.org/",
+                banner: "/kyoshi/revshit.png",
+            },
+            {
+                name: "",
+                url: "https://guns.lol/kyoshiroo",
+                banner: "/kyoshi/guns.png",
+            },
+        ],
     },
     {
         key: "rc",
@@ -667,14 +796,14 @@ export const members: MemberConfig[] = [
         hasPage: false,
     },
     {
-        key: "kae",
-        discordId: "1534535921158979585",
+        key: "seii",
+        discordId: "1541118696137826504",
         group: "DIVINEBLOOD",
         hasPage: false,
     },
     {
-        key: "cio",
-        discordId: "1073765256884662393",
+        key: "cie",
+        discordId: "1244169767892553764",
         group: "DIVINEBLOOD",
         hasPage: false,
     },
@@ -700,7 +829,56 @@ export const members: MemberConfig[] = [
         key: "supreme",
         discordId: "1500108165771956305",
         group: "DIVINEBLOOD",
-        hasPage: false,
+
+        name: "supreme",
+        bio: "High Authority",
+        music: "https://youtu.be/MEAdm5HzAuM?si=gZOAWazjGW-kwJ-V",
+
+        bannerImage: "",
+        backgroundImage: "/supreme/bg.gif",
+        backgroundOverlay: 0.55,
+
+        buttonColors: {
+            social: "#cc2222",
+            discord: "#cc2222",
+            panel: "#cc2222",
+        },
+
+        socials: [
+            {
+                label: "instagram",
+                url: "https://www.instagram.com/supr_emeoneof1?stkn=Zm5vdHR4eXM4aW11",
+            },
+        ],
+
+        discordLinks: [
+            {
+                banner: "/supreme/1.png",
+                url: "https://discord.gg/45acp",
+            },
+            {
+                banner: "/supreme/2.png",
+                url: "https://discord.gg/8QeZGf278G",
+            },
+        ],
+
+        affiliates: [
+            {
+                name: "",
+                url: "https://www.helloxorev.com/",
+                banner: "/krammy/xorev.png",
+            },
+            {
+                name: "",
+                url: "https://revgng.org/",
+                banner: "/krammy/revshit.png",
+            },
+            {
+                name: "",
+                url: "https://krammy.world/",
+                banner: "/krammy/krammy.png",
+            },
+        ],
     },
     {
         key: "maine",
