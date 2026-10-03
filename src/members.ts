@@ -183,56 +183,6 @@ export const members: MemberConfig[] = [
         ],
     },
     {
-        key: "nate",
-        discordId: "1455803188723843225",
-        group: "FOUNDER",
-
-        name: "nate",
-        bio: "",
-        music: "https://youtu.be/lCDU928mDJs?si=tOC2QV1mb-tv2dcg",
-
-        bannerImage: "",
-        backgroundImage: "/nate/bg.png",
-        backgroundOverlay: 0.55,
-
-        buttonColors: {
-            social: "#FFFFFF",
-            discord: "#FFFFFF",
-            panel: "#FFFFFF",
-        },
-
-        socials: [
-            {
-                label: "youtube",
-                url: "https://youtube.com/@4luvraizen?si=Uqjf68BpLDocr4vm",
-            },
-            {
-                label: "tiktok",
-                url: "https://www.tiktok.com/@youthink.ron?_r=1&_t=ZS-99223pwFevU",
-            },
-        ],
-
-        discordLinks: [],
-
-        affiliates: [
-            {
-                name: "",
-                url: "https://www.helloxorev.com/",
-                banner: "/demz/xorev.png",
-            },
-            {
-                name: "",
-                url: "https://revgng.org/",
-                banner: "/demz/revshit.png",
-            },
-            {
-                name: "",
-                url: "https://krammy.world/",
-                banner: "/demz/krammy.png",
-            },
-        ],
-    },
-    {
         key: "illusion",
         discordId: "1495036966360842260",
         group: "FOUNDER",
@@ -407,12 +357,6 @@ export const members: MemberConfig[] = [
                 banner: "/ly/amiri.jpg",
             },
         ],
-    },
-    {
-        key: "nikki",
-        discordId: "885505939338305556",
-        group: "FAME",
-        hasPage: false,
     },
     {
         key: "leyy",
@@ -643,18 +587,6 @@ export const members: MemberConfig[] = [
         ],
     },
     {
-        key: "elohim",
-        discordId: "1439556646966923317",
-        group: "FAME",
-        hasPage: false,
-    },
-    {
-        key: "deej",
-        discordId: "739693953242103838",
-        group: "FAME",
-        hasPage: false,
-    },
-    {
         key: "tid",
         discordId: "1474609680792817985",
         group: "FAME",
@@ -671,6 +603,56 @@ export const members: MemberConfig[] = [
         discordId: "1073765256884662393",
         group: "FAME",
         hasPage: false,
+    },
+    {
+        key: "nate",
+        discordId: "1455803188723843225",
+        group: "FOUNDER",
+
+        name: "nate",
+        bio: "",
+        music: "https://youtu.be/lCDU928mDJs?si=tOC2QV1mb-tv2dcg",
+
+        bannerImage: "",
+        backgroundImage: "/nate/bg.png",
+        backgroundOverlay: 0.55,
+
+        buttonColors: {
+            social: "#FFFFFF",
+            discord: "#FFFFFF",
+            panel: "#FFFFFF",
+        },
+
+        socials: [
+            {
+                label: "youtube",
+                url: "https://youtube.com/@4luvraizen?si=Uqjf68BpLDocr4vm",
+            },
+            {
+                label: "tiktok",
+                url: "https://www.tiktok.com/@youthink.ron?_r=1&_t=ZS-99223pwFevU",
+            },
+        ],
+
+        discordLinks: [],
+
+        affiliates: [
+            {
+                name: "",
+                url: "https://www.helloxorev.com/",
+                banner: "/demz/xorev.png",
+            },
+            {
+                name: "",
+                url: "https://revgng.org/",
+                banner: "/demz/revshit.png",
+            },
+            {
+                name: "",
+                url: "https://krammy.world/",
+                banner: "/demz/krammy.png",
+            },
+        ],
     },
 
     // ── DIVINEBLOOD ──────────────────────────────────────────────────────────────
@@ -786,12 +768,6 @@ export const members: MemberConfig[] = [
     {
         key: "rc",
         discordId: "1437571131275214888",
-        group: "DIVINEBLOOD",
-        hasPage: false,
-    },
-    {
-        key: "jules",
-        discordId: "731062259832455178",
         group: "DIVINEBLOOD",
         hasPage: false,
     },
