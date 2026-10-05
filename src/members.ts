@@ -182,12 +182,6 @@ export const members: MemberConfig[] = [
             },
         ],
     },
-    {
-        key: "illusion",
-        discordId: "1495036966360842260",
-        group: "FOUNDER",
-        hasPage: false,
-    },
 
     // ── COF ──────────────────────────────────────────────────────────────
 
@@ -243,20 +237,17 @@ export const members: MemberConfig[] = [
         group: "COF",
         hasPage: false,
     },
-   
-    // ── FAME ──────────────────────────────────────────────────────────────
-   
-    {
-        key: "winho",
-        discordId: "1036850037579329536",
-        group: "FAME",
+       {
+        key: "nate",
+        discordId: "1455803188723843225",
+        group: "COF",
 
-        name: "WINHO",
-        bio: "Built in Silence.",
-        music: "https://music.youtube.com/watch?v=t8biySOdzK8",
+        name: "nate",
+        bio: "",
+        music: "https://youtu.be/lCDU928mDJs?si=tOC2QV1mb-tv2dcg",
 
-        bannerImage: "/winho/banner.gif",
-        backgroundImage: "/winho/bg.gif",
+        bannerImage: "",
+        backgroundImage: "/nate/bg.png",
         backgroundOverlay: 0.55,
 
         buttonColors: {
@@ -267,31 +258,77 @@ export const members: MemberConfig[] = [
 
         socials: [
             {
-                label: "instagram",
-                url: "https://www.instagram.com/wincurse?igsi=azVidm83ZmluODhu&utm_source=qr",
+                label: "youtube",
+                url: "https://youtube.com/@4luvraizen?si=Uqjf68BpLDocr4vm",
             },
             {
                 label: "tiktok",
-                url: "https://www.tiktok.com/@wnhocurse_?_r=1&_t=ZS-99FAf0aXYTB",
+                url: "https://www.tiktok.com/@youthink.ron?_r=1&_t=ZS-99223pwFevU",
             },
         ],
 
+        discordLinks: [],
+
+        affiliates: [
+            {
+                name: "",
+                url: "https://www.helloxorev.com/",
+                banner: "/demz/xorev.png",
+            },
+            {
+                name: "",
+                url: "https://revgng.org/",
+                banner: "/demz/revshit.png",
+            },
+            {
+                name: "",
+                url: "https://krammy.world/",
+                banner: "/demz/krammy.png",
+            },
+        ],
+    },
+    {
+        key: "aisha",
+        discordId: "1460080900405727492",
+        group: "COF",
+
+        name: "aisha",
+        bio: "evolving not competing dm Moko baby",
+        music: "https://youtu.be/UoPd8mFDJjo?si=8TSLt_UVUG91tv_G",
+
+        bannerImage: "",
+        backgroundImage: "/aisha/bg.gif",
+        backgroundOverlay: 0.55,
+
+        buttonColors: {
+            social: "#cc2222",
+            discord: "#cc2222",
+            panel: "#cc2222",
+        },
+
+        socials: [],
+
         discordLinks: [
             {
-                banner: "/winho/hhail.jpg",
-                url: "https://discord.gg/PTB4du9nF",
+                banner: "/aisha/1.gif",
+                url: "https://discord.gg/TMTsav37dR",
             },
             {
-                banner: "/winho/revshit.gif",
-                url: "https://discord.gg/revshit",
+                banner: "/aisha/2.jpg",
+                url: "https://discord.gg/V6QkCuvvwy",
             },
             {
-                banner: "/winho/xorev.png",
-                url: "https://discord.gg/xorev",
+                banner: "/aisha/3.png",
+                url: "https://discord.gg/PpnqjXcxNQ",
             },
         ],
 
         affiliates: [
+            {
+                name: "",
+                url: "https://1738wrldwide.xo.je/",
+                banner: "/ly/1738.png",
+            },
             {
                 name: "",
                 url: "https://www.helloxorev.com/",
@@ -304,6 +341,15 @@ export const members: MemberConfig[] = [
             },
         ],
     },
+    {
+        key: "tin",
+        discordId: "912130312442613801",
+        group: "COF",
+        hasPage: false,
+    },
+   
+    // ── FAME ──────────────────────────────────────────────────────────────
+   
     {
         key: "ly",
         discordId: "879366945957347328",
@@ -411,66 +457,6 @@ export const members: MemberConfig[] = [
     {
         key: "xisha",
         discordId: "901367147215851571",
-        group: "FAME",
-        hasPage: false,
-    },
-    {
-        key: "aisha",
-        discordId: "1460080900405727492",
-        group: "FAME",
-
-        name: "aisha",
-        bio: "evolving not competing dm Moko baby",
-        music: "https://youtu.be/UoPd8mFDJjo?si=8TSLt_UVUG91tv_G",
-
-        bannerImage: "",
-        backgroundImage: "/aisha/bg.gif",
-        backgroundOverlay: 0.55,
-
-        buttonColors: {
-            social: "#cc2222",
-            discord: "#cc2222",
-            panel: "#cc2222",
-        },
-
-        socials: [],
-
-        discordLinks: [
-            {
-                banner: "/aisha/1.gif",
-                url: "https://discord.gg/TMTsav37dR",
-            },
-            {
-                banner: "/aisha/2.jpg",
-                url: "https://discord.gg/V6QkCuvvwy",
-            },
-            {
-                banner: "/aisha/3.png",
-                url: "https://discord.gg/PpnqjXcxNQ",
-            },
-        ],
-
-        affiliates: [
-            {
-                name: "",
-                url: "https://1738wrldwide.xo.je/",
-                banner: "/ly/1738.png",
-            },
-            {
-                name: "",
-                url: "https://www.helloxorev.com/",
-                banner: "/krammy/xorev.png",
-            },
-            {
-                name: "",
-                url: "https://revgng.org/",
-                banner: "/krammy/revshit.png",
-            },
-        ],
-    },
-    {
-        key: "tin",
-        discordId: "912130312442613801",
         group: "FAME",
         hasPage: false,
     },
@@ -587,50 +573,40 @@ export const members: MemberConfig[] = [
         ],
     },
     {
-        key: "tid",
-        discordId: "1474609680792817985",
-        group: "FAME",
-        hasPage: false,
-    },
-    {
         key: "caramelle",
         discordId: "728609593835651073",
         group: "FAME",
-        hasPage: false,
-    },
-    {
-        key: "cio",
-        discordId: "1073765256884662393",
-        group: "FAME",
-        hasPage: false,
-    },
-    {
-        key: "nate",
-        discordId: "1455803188723843225",
-        group: "FOUNDER",
 
-        name: "nate",
+        name: "caramelle",
         bio: "",
-        music: "https://youtu.be/lCDU928mDJs?si=tOC2QV1mb-tv2dcg",
+        music: "https://youtu.be/Hki6RqI-eMA?list=RDHki6RqI-eMA",
 
         bannerImage: "",
-        backgroundImage: "/nate/bg.png",
+        backgroundImage: "/cara/bg.gif",
         backgroundOverlay: 0.55,
 
         buttonColors: {
-            social: "#FFFFFF",
-            discord: "#FFFFFF",
-            panel: "#FFFFFF",
+            social: "#301934",
+            discord: "#301934",
+            panel: "#301934",
         },
 
         socials: [
             {
-                label: "youtube",
-                url: "https://youtube.com/@4luvraizen?si=Uqjf68BpLDocr4vm",
+                label: "instagram",
+                url: "https://www.instagram.com/_carmelashaineee?igsh=amJuZ3JsOHBzNXRm&igsi=amJuZ3JsOHBzNXRm",
             },
             {
                 label: "tiktok",
-                url: "https://www.tiktok.com/@youthink.ron?_r=1&_t=ZS-99223pwFevU",
+                url: "https://www.tiktok.com/@nacetyl5methoxtryptamine?_r=1&_t=ZS-98sKQaVJnnQ",
+            },
+            {
+                label: "kick",
+                url: "https://kick.com/caraamelle",
+            },
+            {
+                label: "facebook",
+                url: "https://www.facebook.com/share/1Eh2pqdUHb/",
             },
         ],
 
@@ -701,12 +677,6 @@ export const members: MemberConfig[] = [
         ],  
     },
     {
-        key: "devil",
-        discordId: "1406664943826374688",
-        group: "DIVINEBLOOD",
-        hasPage: false,
-    },
-    {
         key: "kyoshi",
         discordId: "715545303784095794",
         group: "DIVINEBLOOD",
@@ -766,42 +736,6 @@ export const members: MemberConfig[] = [
         ],
     },
     {
-        key: "rc",
-        discordId: "1437571131275214888",
-        group: "DIVINEBLOOD",
-        hasPage: false,
-    },
-    {
-        key: "seii",
-        discordId: "1541118696137826504",
-        group: "DIVINEBLOOD",
-        hasPage: false,
-    },
-    {
-        key: "cie",
-        discordId: "1244169767892553764",
-        group: "DIVINEBLOOD",
-        hasPage: false,
-    },
-    {
-        key: "kash",
-        discordId: "1443190990373388361",
-        group: "DIVINEBLOOD",
-        hasPage: false,
-    },
-    {
-        key: "owx",
-        discordId: "998493903286181928",
-        group: "DIVINEBLOOD",
-        hasPage: false,
-    },
-    {
-        key: "shanoa",
-        discordId: "1098937185882869840",
-        group: "DIVINEBLOOD",
-        hasPage: false,
-    },
-    {
         key: "supreme",
         discordId: "1500108165771956305",
         group: "DIVINEBLOOD",
@@ -857,10 +791,62 @@ export const members: MemberConfig[] = [
         ],
     },
     {
-        key: "maine",
-        discordId: "788703263146246195",
+        key: "winho",
+        discordId: "1036850037579329536",
         group: "DIVINEBLOOD",
-        hasPage: false,
+
+        name: "WINHO",
+        bio: "Built in Silence.",
+        music: "https://music.youtube.com/watch?v=t8biySOdzK8",
+
+        bannerImage: "/winho/banner.gif",
+        backgroundImage: "/winho/bg.gif",
+        backgroundOverlay: 0.55,
+
+        buttonColors: {
+            social: "#FFFFFF",
+            discord: "#FFFFFF",
+            panel: "#FFFFFF",
+        },
+
+        socials: [
+            {
+                label: "instagram",
+                url: "https://www.instagram.com/wincurse?igsi=azVidm83ZmluODhu&utm_source=qr",
+            },
+            {
+                label: "tiktok",
+                url: "https://www.tiktok.com/@wnhocurse_?_r=1&_t=ZS-99FAf0aXYTB",
+            },
+        ],
+
+        discordLinks: [
+            {
+                banner: "/winho/hhail.jpg",
+                url: "https://discord.gg/PTB4du9nF",
+            },
+            {
+                banner: "/winho/revshit.gif",
+                url: "https://discord.gg/revshit",
+            },
+            {
+                banner: "/winho/xorev.png",
+                url: "https://discord.gg/xorev",
+            },
+        ],
+
+        affiliates: [
+            {
+                name: "",
+                url: "https://www.helloxorev.com/",
+                banner: "/krammy/xorev.png",
+            },
+            {
+                name: "",
+                url: "https://revgng.org/",
+                banner: "/krammy/revshit.png",
+            },
+        ],
     },
 ];
 
